@@ -1,0 +1,13 @@
+{
+  "name": "iepcloud-backend",
+  "version": "1.0.0",
+  "description": "Backend for IEP Cloud",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
